@@ -24,8 +24,8 @@
     "kdyby/annotations": "^2.4@dev",
     "kdyby/doctrine-cache": "^2.6.1",
     "kdyby/strict-objects": "^1.0",
-    "nette/di": "^2.4@dev",
-    "nette/utils": "^2.4@dev",
+    "nette/di": "^2.4@dev || 3.0.0",
+    "nette/utils": "^2.4@dev || 3.0.0",
     "nette/finder": "^2.4@dev"
   },
   "suggest": {
